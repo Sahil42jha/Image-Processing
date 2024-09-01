@@ -21,4 +21,4 @@ class ProcessingRequestSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = ProcessingRequest
-        fields = ["request_id", "created_at", "completed", "products"]
+        fields = ["request_id", "created_at", "completed"]
