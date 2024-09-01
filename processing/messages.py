@@ -1,0 +1,8 @@
+NO_UPLOADED_FILE = "No file uploaded."
+NOT_CSV_FILE = "Please upload a CSV file."
+UPLOAD_CSV_EXCEPPTION = "An error occured while uploading CSV file."
+STATUS_EXCEPTION = "An error occured while performing status check."
+MISSING_REQUEST_ID = "Please enter request_id."
+CSV_FILE_READ_ERROR  = "Failed to read CSV file headers."
+CSV_ERROR  = "There is some error occured in CSV file."
+IMAGE_PROCESSING_EXCEPTION = "An exception occured while processing Image task."
